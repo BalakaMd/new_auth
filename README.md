@@ -24,13 +24,18 @@ This project updates the authentication and registration logic, allowing users t
 git clone https://github.com/BalakaMd/new_auth.git
 cd new_auth
 
+```
 2. Install Dependencies
 
+```sh
 npm install
+```
 
 3. Start the Development Server
 
+```sh
 npm start
+```
 
 The app will run on http://localhost:3000.
 
