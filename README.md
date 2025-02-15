@@ -56,7 +56,7 @@ const PrivateRoute = ({ component: Component, redirectTo = '/login' }) => {
 
 
 Routing Structure
-	•	Public Routes: Homepage, product listings, descriptions.
+	•	Public Routes: Homepage, product listings.
 	•	Private Routes: User dashboard, store management, wallet.
 
 Live Demo & Testing
