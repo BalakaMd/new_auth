@@ -67,13 +67,3 @@ Future Improvements
 	•	Implement role-based access control.
 	•	Enhance security using JWT token expiration handling.
 	•	Add multi-factor authentication for better security.
-
-Contributing
-
-Feel free to submit issues or pull requests. Contributions are welcome!
-
-License
-
-This project is licensed under the MIT License.
-
-This README provides clear instructions, technical details, and useful references. Let me know if you want any modifications! 🚀
